@@ -18,3 +18,10 @@
 **see README-2**
 [Title](README-2.md)
 
+
+
+## Project has been renamed from *ansible-config-mgt-3* to *ansibleconfig-mgt-4*
+## the complete work can be found in the branch jenkinspipeline-stages of 
+## https://github.com/Bjrules/ansible-config-mgt-4.git
+## and https://github.com/Bjrules/php-todo.git (main branch)
+
