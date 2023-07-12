@@ -6,14 +6,16 @@
 
 
 ## IMPORTANT
-1. makesure it is phpunit6.* that you install on jenkins
-2. make sure it is php7.4 you are using
-3. install mysql-client on the jenkins machine
-4. modify the .env.sapmle for the database details
-5. install zip on the jenkins machine.
-6. make sure you install java jdk 11 on jenkins
-7. Dont forget to create inbound rules on the EC2 instances, Artifactory is 8082, MySQL is 3306, jenkins is 8080 and Sonarqube is 9000
-8. Install these jenkins plugins: Blue Ocean, Plot, Ansible, Artifactory, Sonar Scanner 
+
+1. Make sure you instance is either t2.medum or t3.medium
+2. make sure it is phpunit6.* that you install on jenkins
+3. make sure it is php7.4 you are using
+4. install mysql-client on the jenkins machine
+5. modify the .env.sapmle for the database details
+6. install zip on the jenkins machine.
+7. make sure you install java jdk 11 on jenkins
+8. Dont forget to create inbound rules on the EC2 instances, Artifactory is 8082, MySQL is 3306, jenkins is 8080 and Sonarqube is 9000
+9.  Install these jenkins plugins: Blue Ocean, Plot, Ansible, Artifactory, Sonar Scanner 
 
 
 
