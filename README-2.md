@@ -2,7 +2,7 @@ A flagship and Capstone Project so far.
 
 **Set up a Jenkins Ansible server**
 
-**Ensure to use jenkins t3.medium in aws because  t2.micro will become slow after installing Absible and other software on the machine**
+**Ensure to use jenkins t3.medium in aws because  t2.micro will become slow after installing Ansible and other software on the machine**
 
 [How to install Jenkins on Linux (ubuntu or RHEL or debian)](https://www.jenkins.io/doc/book/installing/linux/)
 
